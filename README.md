@@ -15,9 +15,14 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,c,html,css,js,mysql,mongodb,firebase,git,github,vscode,postman&perline=7" />
-</p>
+### 👨‍💻 Programming Languages
+- Java
+- Python
+- C
+- JavaScript
+- SQL
+- HTML5
+- CSS3
 
 ### ☕ Java Full Stack
 - Core Java
