@@ -70,14 +70,12 @@
 
 > **"Code • Learn • Build • Improve • Repeat 🚀"**
 >
->## 📊 GitHub Stats
+> ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreekrishna-bhat&theme=github_dark" />
-</p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreekrishna-bhat&show_icons=true&theme=github_dark&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreekrishna-bhat&theme=github_dark" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreekrishna-bhat&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 
