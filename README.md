@@ -72,8 +72,12 @@
 >
 >## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Shreekrishna-bhat&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreekrishna-bhat&theme=github_dark" />
+</p>
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shreekrishna-bhat&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shreekrishna-bhat&theme=github_dark" />
+</p>
 
 
