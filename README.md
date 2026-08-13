@@ -30,7 +30,7 @@
 - JDBC
 - Servlets
 - JSP
-- Spring Boot (Learning)
+- Spring Boot 
 - REST APIs
 
 ### 🗄️ Databases
