@@ -60,7 +60,6 @@
 - ✅ Master Spring Boot & REST APIs
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Development Internship
-- ✅ Crack a Product-Based Company
 
 ## 📫 Connect With Me
 
