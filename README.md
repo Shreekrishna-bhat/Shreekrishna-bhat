@@ -56,7 +56,7 @@
 ## 🎯 2026 Goals
 
 - ✅ Solve 200+ LeetCode Problems
-- ✅ Build 5+ Java Full Stack Projects
+- ✅ Build 2+ Java Full Stack Projects
 - ✅ Master Spring Boot & REST APIs
 - ✅ Contribute to Open Source
 - ✅ Secure a Software Development Internship
